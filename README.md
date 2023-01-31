@@ -1,2 +1,3 @@
-# self_checkout_fraud_prevention
+# Self Checkout Fraud Detection
+
 Methods to detect frauds at self checkout
